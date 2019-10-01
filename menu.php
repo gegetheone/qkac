@@ -13,12 +13,9 @@
         <li>Repeat</li>
         <table>
           <tr>
-            <td>
-              asdfasdf
-            </td>
-            <td>
-              csinytalan!
-            </td>
+            <td> asdfasdf </td>
+            <td> csinytalan! </td>
+            <td> vakember </td>
             <tr>
     </body>
 </html>
