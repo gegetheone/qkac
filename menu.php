@@ -9,7 +9,16 @@
       <li> About </li>
         <li>Eat</li>
         <li>Sleep</li>
-        <li>Code</li>
+        <li>CRY</li>
         <li>Repeat</li>
-  </body>
+        <table>
+          <tr>
+            <td>
+              asdfasdf
+            </td>
+            <td>
+              csinytalan!
+            </td>
+            <tr>
+    </body>
 </html>
